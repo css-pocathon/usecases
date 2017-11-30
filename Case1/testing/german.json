@@ -1,0 +1,17 @@
+[
+	{
+		"text": "Hallo",
+		"intent": "greeting",
+		"entities": []
+    },
+    {
+		"text": "Guten Tag",
+		"intent": "greeting",
+		"entities": []
+    },
+    {
+		"text": "Grüezi",
+		"intent": "greeting",
+		"entities": []
+	}
+]

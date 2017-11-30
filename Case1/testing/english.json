@@ -1,0 +1,17 @@
+[
+	{
+		"text": "Hello",
+		"intent": "greeting",
+		"entities": []
+    },
+    {
+		"text": "Good day",
+		"intent": "greeting",
+		"entities": []
+    },
+    {
+		"text": "Hi",
+		"intent": "greeting",
+		"entities": []
+	}
+]

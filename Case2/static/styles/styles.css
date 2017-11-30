@@ -1,0 +1,25 @@
+.container {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#a9a7a7;
+    border-radius: 9px;
+}
+
+.login {
+    padding-top: 32px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.error {
+    background-color: rgb(224, 110, 110);
+    width: 200px;
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #888888;
+}
